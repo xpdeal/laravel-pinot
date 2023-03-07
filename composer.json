@@ -1,0 +1,16 @@
+{
+    "name": "xpdeal/pinot",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xpdeal\\Pinot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jordan XP",
+            "email": "brasil@xpdeal.com"
+        }
+    ],
+    "require": {}
+}
